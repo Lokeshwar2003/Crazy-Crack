@@ -1,0 +1,9 @@
+follow this command to create your own hash file...!
+~~~
+su
+rtgen -help
+rtgen md5 loweralpha-numeric 1 10 0  1000 4000 0
+pwd  (/home/lok)
+/usr/share/rainbowcrack ---follow this path to find your hash
+
+
